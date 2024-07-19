@@ -6,5 +6,3 @@ create directory for docs upload pdf or text files in docs
 then run these two in terminal respectively
 ``python datafetch.py``
 ``python ai.py``
-
-
